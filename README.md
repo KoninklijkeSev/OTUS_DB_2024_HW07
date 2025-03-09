@@ -17,7 +17,7 @@ player_name VARCHAR(100) NOT NULL,
 
 );
 ```
-2) заполнить данными ```
+2) заполнить данными 
 ```sql
 INSERT INTO
     statistic(player_name, player_id, year_game, points)
